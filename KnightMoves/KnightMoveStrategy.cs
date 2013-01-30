@@ -13,6 +13,7 @@ namespace KnightMoves
         {
             _board = board;
         }
+
         
         #region IMoveStrategy Members
 
